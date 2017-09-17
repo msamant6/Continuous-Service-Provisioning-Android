@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cuisine_array">
+        <item>American</item>
+        <item>Mexican</item>
+        <item>Italian/European</item>
+        <item>Mediterranean</item>
+        <item>Asian</item>
+        <item>Buffet</item>
+        <item>FastFood</item>
+        <item>Cafes</item>
+        <item>Spirits</item>
+        <item>Middle Eastern</item>
+        <item>Indian</item>
+        <item>Barbeque</item>
+        <item>Caribbean</item>
+    </string-array>
+</resources>
